@@ -1,5 +1,6 @@
-![tenor](https://user-images.githubusercontent.com/57464067/94194383-47313200-feba-11ea-9ef5-2a4edd300bb5.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57464067/94194383-47313200-feba-11ea-9ef5-2a4edd300bb5.gif"></img>
+  </p>
 <!--
 **yenilikci/yenilikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
