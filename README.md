@@ -6,7 +6,7 @@
 | ------------ |------------ |
 |🌟  **[JavaScript-AI-Duygu-Tespit ](https://github.com/yenilikci/JavaScript-AI-Duygu-Tespit "JavaScript-AI-Duygu-Tespit ")** | 🐘  **[VeritabaniYonetimSistemleriDersi](https://github.com/yenilikci/VeritabaniYonetimSistemleriDersi)** |
 |🌟  **[JavaScript-Yapilacaklar-Listesi](https://github.com/yenilikci/JavaScript-Yapilacaklar-Listesi "JavaScript-Yapilacaklar-Listesi")** | 🐘  **[phpNotlari-oop](https://github.com/yenilikci/php)**|
-|🌟  **[JavaScript-Slider](https://github.com/yenilikci/JavaScript-Slider "JavaScript-Slider")**  |
+|🌟  **[JavaScript-Slider](https://github.com/yenilikci/JavaScript-Slider "JavaScript-Slider")**  | 🐘  **[phpCMS](https://github.com/yenilikci/phpCMS)**|
 |🌟  **[JavaScript-Form-Validator](JavaScript-Form-Validator "JavaScript-Form-Validator")**  |
 |🌟  **[JavaScript-Quiz-Uygulamasi](https://github.com/yenilikci/JavaScript-Quiz-Uygulamasi "JavaScript-Quiz-Uygulamasi")**  |
 |🌟  **[JavaScript-Kurs-Uygulamasi](https://github.com/yenilikci/JavaScript-Kurs-Uygulamasi "JavaScript-Kurs-Uygulamasi")** |
