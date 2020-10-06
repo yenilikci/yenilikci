@@ -13,6 +13,9 @@
 - 🔭 I’m currently working on Laravel and Asp.net Core MVC 3.1
 - 🌱 I’m currently learning Vue.js
 
+[![Comlaf](https://user-images.githubusercontent.com/57464067/95266920-da645300-083c-11eb-94dc-7fe0a60e0764.png "Comlaf")](https://comlaf.com/ "Comlaf")
+[![Stajilan](https://user-images.githubusercontent.com/57464067/95267106-34651880-083d-11eb-9164-da610769d7ab.png "Stajilan")](https://stajilan.com/ "Stajilan")
+
 <!--
 **yenilikci/yenilikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
