@@ -1,5 +1,6 @@
-![Yenilikci](https://github-readme-stats.vercel.app/api?username=yenilikci&show_icons=true&theme=radical)
-<br>
+![Yenilikci](https://github-readme-stats.vercel.app/api?username=yenilikci&show_icons=true&theme=radical) <br>
+![js](https://user-images.githubusercontent.com/57464067/95857033-a5d42800-0d63-11eb-9385-ed70a9b463a6.png)
+
 [![JavaScript-AI-Duygu-Tespit](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-AI-Duygu-Tespit)](https://github.com/yenilikci/JavaScript-AI-Duygu-Tespit)
 [![JavaScript-Yapilacaklar-Listesi](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Yapilacaklar-Listesi)](https://github.com/yenilikci/JavaScript-Yapilacaklar-Listes)
 [![JavaScript-Slider](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Slider)](https://github.com/yenilikci/JavaScript-Slider)
