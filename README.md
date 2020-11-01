@@ -13,3 +13,26 @@
 ![icons8-python-48](https://user-images.githubusercontent.com/57464067/97814472-b6a8f700-1c9a-11eb-94c5-19b90e22daaf.png)
 ![icons8-django-48](https://user-images.githubusercontent.com/57464067/97814481-b7418d80-1c9a-11eb-9845-2b7bfaba1929.png)
 ![icons8-react-native-48](https://user-images.githubusercontent.com/57464067/97814812-f53eb180-1c9a-11eb-800c-4878d9d6a56a.png)
+
+
+[Laravel 8 Blog](https://github.com/yenilikci/Laravel8-Blog) <br>
+[React Native WeatherApp](https://github.com/yenilikci/ReactNative-WeatherApp) <br>
+[React Native Hesap Makinesi](https://github.com/yenilikci/ReactNative-Hesap-Makinesi) <br>
+[ElectronJS To Do List](https://github.com/yenilikci/ElectronJs-ToDo-List) <br>
+[Python PostgreSQL](https://github.com/yenilikci/Python-PostgreSQL) <br>
+[Veritabanı Yönetim Sistemleri - Yetenhack WebApp (Php,Mysql)](https://github.com/yenilikci/VeritabaniYonetimSistemleriDersi) <br>
+[Php Oop ve Pdo Notları](https://github.com/yenilikci/php) <br>
+[.NET Framework 4.6.1 MVC - Blogg](https://github.com/yenilikci/Blogg) <br>
+[JavaScript Döviz Çeviri API](https://github.com/yenilikci/JavaScript-Doviz-Ceviri-API) <br>
+[CSS Tekrar](https://github.com/yenilikci/csstekrar) <br>
+[JavaScript Fiyat Hesaplayıcı](https://github.com/yenilikci/JavaScript-Fiyat-Hesaplayici) <br>
+[JavaScript Profil Arama API](https://github.com/yenilikci/JavaScript-Profil-Arama-API) <br>
+[JavaScript Kurs Uygulaması](https://github.com/yenilikci/JavaScript-Kurs-Uygulamasi) <br>
+[JavaScript Quiz Uygulaması](https://github.com/yenilikci/JavaScript-Quiz-Uygulamasi) <br>
+[JavaScript Form Validator](https://github.com/yenilikci/JavaScript-Form-Validator) <br>
+[JavaScript Slider](https://github.com/yenilikci/JavaScript-Slider) <br>
+[JavaScript Yapılacaklar Listesi](https://github.com/yenilikci/JavaScript-Yapilacaklar-Listesi) <br>
+[JavaScript Duygu Tespit](https://github.com/yenilikci/JavaScript-AI-Duygu-Tespit) <br>
+[Programlamaya Giriş Proje](https://github.com/yenilikci/Programlamaya-Giris-Proje-Odevi) <br>
+[PDP Ödevleri](https://github.com/yenilikci/pdp) <br>
+[Nesne Yönelimli Analiz ve Tasarım](https://github.com/yenilikci/NesneYonelimliAnalizVeTasarimDersi) <br>
