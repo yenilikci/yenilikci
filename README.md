@@ -1,47 +1,15 @@
-![Yenilikci](https://github-readme-stats.vercel.app/api?username=yenilikci&show_icons=true&theme=radical) <br>
-
-![react-native (2)](https://user-images.githubusercontent.com/57464067/96386776-11742600-11a6-11eb-85da-4c1bab00a976.png)
-
-[![ReactNative-Hesap-Makinesi](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=ReactNative-Hesap-Makinesi)](https://github.com/yenilikci/ReactNative-Hesap-Makinesi)
-[![ReactNative-WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=ReactNative-WeatherApp)](https://github.com/yenilikci/ReactNative-WeatherApp)
-
-
-![js](https://user-images.githubusercontent.com/57464067/95857033-a5d42800-0d63-11eb-9385-ed70a9b463a6.png)
-
-[![JavaScript-AI-Duygu-Tespit](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-AI-Duygu-Tespit)](https://github.com/yenilikci/JavaScript-AI-Duygu-Tespit)
-[![JavaScript-Yapilacaklar-Listesi](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Yapilacaklar-Listesi)](https://github.com/yenilikci/JavaScript-Yapilacaklar-Listesi)
-[![JavaScript-Slider](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Slider)](https://github.com/yenilikci/JavaScript-Slider)
-[![JavaScript-Form-Validator](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Form-Validator)](https://github.com/yenilikci/JavaScript-Form-Validator)
-[![JavaScript-Quiz-Uygulamasi](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Quiz-Uygulamasi)](https://github.com/yenilikci/JavaScript-Quiz-Uygulamasi)
-[![JavaScript-Kurs-Uygulamasi](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Kurs-Uygulamasi)](https://github.com/yenilikci/JavaScript-Kurs-Uygulamasi)
-[![JavaScript-Doviz-Ceviri-API](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Doviz-Ceviri-API)](https://github.com/yenilikci/JavaScript-Doviz-Ceviri-API)
-[![JavaScript-Profil-Arama-API](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Profil-Arama-API)](https://github.com/yenilikci/JavaScript-Profil-Arama-API)
-[![JavaScript-Fiyat-Hesaplayici](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=JavaScript-Fiyat-Hesaplayici)](https://github.com/yenilikci/JavaScript-Fiyat-Hesaplayici)
-
-![php](https://user-images.githubusercontent.com/57464067/95857397-3874c700-0d64-11eb-857b-abe0bb495865.png)
-
-[![VeritabaniYonetimSistemleriDersi](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=VeritabaniYonetimSistemleriDersi)](https://github.com/yenilikci/VeritabaniYonetimSistemleriDersi)
-[![php](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=php)](https://github.com/yenilikci/php)
-[![phpCMS](https://github-readme-stats.vercel.app/api/pin/?username=yenilikci&repo=phpCMS)](https://github.com/yenilikci/phpCMS)
-
-
-- 🔭 I’m currently working on Laravel and Asp.net Core MVC 3.1
-- 🌱 I’m currently learning Vue.js
-
-[![Comlaf](https://user-images.githubusercontent.com/57464067/95266920-da645300-083c-11eb-94dc-7fe0a60e0764.png "Comlaf")](https://comlaf.com/ "Comlaf")
-[![Stajilan](https://user-images.githubusercontent.com/57464067/95267106-34651880-083d-11eb-9164-da610769d7ab.png "Stajilan")](https://stajilan.com/ "Stajilan")
-
-<!--
-**yenilikci/yenilikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Laravel and Asp.net Core MVC 3.1
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![icons8-html-5-48](https://user-images.githubusercontent.com/57464067/97813967-6fbb0180-1c9a-11eb-98be-902f22aad835.png)
+![icons8-css3-48](https://user-images.githubusercontent.com/57464067/97813978-7184c500-1c9a-11eb-979f-6c9b4c121fdf.png)
+![icons8-bootstrap-48](https://user-images.githubusercontent.com/57464067/97814070-7e091d80-1c9a-11eb-9b5d-4f0dfb9dfb08.png)
+![icons8-javascript-48](https://user-images.githubusercontent.com/57464067/97814137-86615880-1c9a-11eb-8ccf-5c1e291788ae.png)
+![icons8-typescript-48](https://user-images.githubusercontent.com/57464067/97814175-8bbea300-1c9a-11eb-990b-8b8569f684f3.png)
+![icons8-json-48](https://user-images.githubusercontent.com/57464067/97814349-a2fd9080-1c9a-11eb-9d46-5534677d3bc3.png)
+![icons8-jquery-50](https://user-images.githubusercontent.com/57464067/97814254-96793800-1c9a-11eb-9599-8917e474c2ef.png)
+![icons8-vue-js-48](https://user-images.githubusercontent.com/57464067/97814293-9bd68280-1c9a-11eb-9b18-e93ba2ad87c9.png)
+![icons8-php-logo-48](https://user-images.githubusercontent.com/57464067/97814432-b0b31600-1c9a-11eb-955d-95d45aecd757.png)
+![icons8-laravel-48](https://user-images.githubusercontent.com/57464067/97814440-b1e44300-1c9a-11eb-80f4-2f0a304fdb5a.png)
+![icons8-postgresql-48](https://user-images.githubusercontent.com/57464067/97814449-b3157000-1c9a-11eb-8e1e-8c0ae797798c.png)
+![icons8-mysql-logo-50](https://user-images.githubusercontent.com/57464067/97814460-b4469d00-1c9a-11eb-889e-5df2abcb80d8.png)
+![icons8-python-48](https://user-images.githubusercontent.com/57464067/97814472-b6a8f700-1c9a-11eb-94c5-19b90e22daaf.png)
+![icons8-django-48](https://user-images.githubusercontent.com/57464067/97814481-b7418d80-1c9a-11eb-9845-2b7bfaba1929.png)
+![icons8-react-native-48](https://user-images.githubusercontent.com/57464067/97814812-f53eb180-1c9a-11eb-800c-4878d9d6a56a.png)
