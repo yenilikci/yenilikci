@@ -16,12 +16,14 @@
 
 
 [Laravel 8 Blog](https://github.com/yenilikci/Laravel8-Blog) <br>
+[React Native Facebook Clone](https://github.com/yenilikci/ReactNative-Facebook-Clone) <br>
 [React Native WeatherApp](https://github.com/yenilikci/ReactNative-WeatherApp) <br>
 [React Native Hesap Makinesi](https://github.com/yenilikci/ReactNative-Hesap-Makinesi) <br>
 [ElectronJS To Do List](https://github.com/yenilikci/ElectronJs-ToDo-List) <br>
 [Python PostgreSQL](https://github.com/yenilikci/Python-PostgreSQL) <br>
 [Veritabanı Yönetim Sistemleri - Yetenhack WebApp (Php,Mysql)](https://github.com/yenilikci/VeritabaniYonetimSistemleriDersi) <br>
 [Php Oop ve Pdo Notları](https://github.com/yenilikci/php) <br>
+[.Net Core Entity Framework Exercises](https://github.com/yenilikci/.Net-Core-Entity-Framework-Exercises) <br>
 [.NET Framework 4.6.1 MVC - Blogg](https://github.com/yenilikci/Blogg) <br>
 [JavaScript Döviz Çeviri API](https://github.com/yenilikci/JavaScript-Doviz-Ceviri-API) <br>
 [CSS Tekrar](https://github.com/yenilikci/csstekrar) <br>
