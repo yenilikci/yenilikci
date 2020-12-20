@@ -16,6 +16,10 @@
 ![c-sharp](https://user-images.githubusercontent.com/57464067/101678979-c4a72000-3a6f-11eb-9779-3dd846eee2be.png)
 
 [AspNet Core Çok Katmanlı Mimari](https://github.com/yenilikci/AspNet-Core-Cok-Katmanli-Mimari) <br>
+[AspNet Core Blog App](https://github.com/yenilikci/AspNet-Core-BlogApp) <br>
+[AspNet Core Movie App](https://github.com/yenilikci/AspNet-Core-MovieApp) <br>
+[AspNet Core Course App](https://github.com/yenilikci/AspNet-Core-CourseApp) <br>
+[TasarrufBot IOT](https://github.com/yenilikci/TasarrufBot-IOT) <br>
 [Laravel 8 Blog](https://github.com/yenilikci/Laravel8-Blog) <br>
 [Stajİlan App](https://github.com/yenilikci/StajIlanApp) <br>
 [React Native Facebook Clone](https://github.com/yenilikci/ReactNative-Facebook-Clone) <br>
