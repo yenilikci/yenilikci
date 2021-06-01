@@ -3,6 +3,7 @@
   <img src="https://user-images.githubusercontent.com/57464067/115104821-abedd000-9f63-11eb-95fd-9ce902c2ad3f.gif">
 </p>
 
+
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yenilikci) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedmelihcelik/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammedmelihcelik/) ![](https://komarev.com/ghpvc/?username=yenilikci)
 ------------
 - 🔭 I’m currently working on [Stajİlan](http://stajilan.com/)
@@ -20,3 +21,15 @@
  
 ## Database 🌌
  ![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<samp>
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>En Çok Kullandığım Teknolojiler - Github İstatistikleri</b>
+      <p>(genişletmek için tıklayın!)</p>
+    </summary>
+    
+  ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=yenilikci&langs_count=10&layout=compact&show_icons=true&theme=highcontrast)
+
+  </details>
+</samp>
