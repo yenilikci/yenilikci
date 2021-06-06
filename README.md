@@ -18,6 +18,36 @@
 ## Database 🌌
  ![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Repolarım
+    
+[Programlama Dilleri Prensipleri Ödevleri](https://github.com/yenilikci/pdp "Programlama Dilleri Prensipleri Ödevleri") |
+[İşletim Sistemleri - Kabuk Projesi](https://github.com/yenilikci/C-KabukProjesi "İşletim Sistemleri - Kabuk Projesi") |
+[Sistem Programlama Projesi - Libfdr](https://github.com/yenilikci/SistemProgramlamaProjesi "Sistem Programlama Projesi - Libfdr") |
+[Programlamaya Giriş Proje Ödevi](https://github.com/yenilikci/Programlamaya-Giris-Proje-Odevi "Programlamaya Giriş Proje Ödevi") |
+[Nesnelerin İnterneti ve Uygulamaları Proje Ödevi](https://github.com/yenilikci/TasarrufBot-IOT "Nesnelerin İnterneti ve Uygulamaları Proje Ödevi") |
+[Nesne Yönelimli Analiz ve Tasarım Proje Ödevi](https://github.com/yenilikci/NesneYonelimliAnalizVeTasarimDersi "Nesne Yönelimli Analiz ve Tasarım Proje Ödevi") |
+[Veritabanı Yönetim Sistemleri Proje Ödevi](https://github.com/yenilikci/VeritabaniYonetimSistemleriDersi "Veritabanı Yönetim Sistemleri Proje Ödevi") |
+[Web Programlama Proje Ödevi - Restoran Market](https://github.com/yenilikci/RestoranMarket "Web Programlama Proje Ödevi - Restoran Market")
+[JavaScript AI Duygu Tespit](https://github.com/yenilikci/JavaScript-AI-Duygu-Tespit "JavaScript AI Duygu Tespit") |
+[JavaScript Yapılacaklar Listesi](https://github.com/yenilikci/JavaScript-Yapilacaklar-Listesi "JavaScript Yapılacaklar Listesi") |
+[JavaScript Slider](https://github.com/yenilikci/JavaScript-Slider "JavaScript Slider") |
+[JavaScript Form Validator](https://github.com/yenilikci/JavaScript-Form-Validator "JavaScript Form Validator") |
+[JavaScript Quiz Uygulaması](https://github.com/yenilikci/JavaScript-Quiz-Uygulamasi "JavaScript Quiz Uygulaması") |
+[JavaScript Kurs Uygulaması](https://github.com/yenilikci/JavaScript-Kurs-Uygulamasi "JavaScript Kurs Uygulaması") |
+[JavaScript Profil Arama API](https://github.com/yenilikci/JavaScript-Profil-Arama-API "JavaScript Profil Arama API") |
+[JavaScript Fiyat Hesaplayıcı](https://github.com/yenilikci/JavaScript-Fiyat-Hesaplayici "JavaScript Fiyat Hesaplayıcı") |
+[JavaScript Döviz Çeviri](https://github.com/yenilikci/JavaScript-Doviz-Ceviri-API "JavaScript Döviz Çeviri") |
+[React Native Hesap Makinesi](https://github.com/yenilikci/ReactNative-Hesap-Makinesi "React Native Hesap Makinesi") |
+[React Native Weather App](https://github.com/yenilikci/ReactNative-WeatherApp "React Native Weather App") |
+[Electron Js ToDo App](https://github.com/yenilikci/ElectronJs-ToDo-List "Electron Js ToDo App") |
+[React Native Facebook Clone (Homepage)](https://github.com/yenilikci/ReactNative-Facebook-Clone "React Native Facebook Clone (Homepage)") |
+[React Native StajIlanApp](https://github.com/yenilikci/StajIlanApp "React Native StajIlanApp") |
+[JQuery Recap](https://github.com/yenilikci/jquery-recap "JQuery Recap") |
+[Firebase Cloud Firestore](https://github.com/yenilikci/Firebase-Cloud-Firestore "Firebase Cloud Firestore") |
+[Firebase Blog App](https://github.com/yenilikci/Firebase-BlogApp "Firebase Blog App") |
+[React Camp](https://github.com/yenilikci/ReactCamp "React Camp") |
+[React Brand Colors](https://github.com/yenilikci/React-Brand-Colors "React Brand Colors") 
+
 <samp>
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
