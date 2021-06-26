@@ -58,7 +58,11 @@
 [Design Patterns](https://github.com/yenilikci/Design-Patterns "Design Patterns") |
 [Node.js-RESTAPI](https://github.com/yenilikci/Node.js-RESTAPI "Node.js-RESTAPI") |
 [Node.js-Express.js-LessonApp](https://github.com/yenilikci/Node.js-Express.js-LessonApp "Node.js-Express.js-LessonApp") |
-[Node.js-Express.js-WebSocket](https://github.com/yenilikci/Node.js-Express.js-WebSocket "Node.js-Express.js-WebSocket")
+[Node.js-Express.js-WebSocket](https://github.com/yenilikci/Node.js-Express.js-WebSocket "Node.js-Express.js-WebSocket") |
+[Node.js-Express.js-JWT](https://github.com/yenilikci/Node.js-Express.js-JWT "Node.js-Express.js-JWT") |
+[Node.js-Express.js-JobTrackingApp](https://github.com/yenilikci/Node.js-Express.js-JobTrackingApp "Node.js-Express.js-JobTrackingApp") |
+[MERN-FI](https://github.com/yenilikci/MERN-FI "MERN-FI") |
+[MERN-SocialMedia](https://github.com/yenilikci/MERN-SocialMedia "MERN-SocialMedia") 
 <samp>
  
   <details align="center">
@@ -74,8 +78,8 @@
 
 ------------
 - 🔭 I’m currently working on [Stajİlan](http://stajilan.com/)
-- 🌱 I’m currently learning **Spring JPA/Hibernate, React, Django**
-- 💬 Ask me about **Html, CSS, Bootstrap 4, PHP, Laravel 8, Codeigniter 3, JavaScript, JQuery, Vue.js**
+- 🌱 I’m currently learning **Spring JPA/Hibernate, React.js, Express.js**
+- 💬 Ask me about **Html, CSS, Bootstrap 4, PHP, Laravel 8, Codeigniter 3, JavaScript, JQuery, Vue.js, Node.js**
 
 ## Programming Languages 🔥  
 ![Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white ) ![Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
